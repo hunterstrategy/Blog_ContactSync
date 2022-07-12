@@ -1,5 +1,5 @@
 #Change the following variables:
-$Organization = "contoso.onmicrosoft.us"
+$Organization = "contoso.onmicrosoft.com"
 $AppId = "1111111-1111-1111-1111-1111111111"
 $Tenantid = "1111111-1111-1111-1111-1111111111""
 $Thumbprint = "123456789abcdefghijklmnopqrstuvwxyz"
